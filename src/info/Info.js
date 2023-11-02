@@ -11,27 +11,28 @@ export const info = {
     firstName: "Sabid",
     lastName: "Hossain",
     initials: "sh", 
-    position: "a Full Stack Developer",
+    position: "A Full Stack Developer",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
-        },
-        {
-            emoji: '🇬🇧',
-            text: 'based in the UK'
+            emoji: '📍',
+            text: 'Based in York, England'
         },
         {
             emoji: "💼",
             text: "Final Year CompSci Student"
         },
         {
+            emoji: "🏫",
+            text: "University of York"
+        },
+        {
             emoji: "📧",
-            text: "shabid.hossain@outlook.com"
+            text: "contact@sabidhossain.com"
         }
+        
     ],
     socials: [
         {
