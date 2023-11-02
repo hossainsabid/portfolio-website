@@ -13,7 +13,7 @@ export default function Home() {
 
   useEffect(() => {
     const options = {
-      strings: ['A Full Stack Developer', 'A Software Engineer', 'A Problem Solver', 'A Mathematician', 'A Computer Scientist'],
+      strings: ['A Digital Craftsman', 'A Full Stack Developer','A Software Engineer', 'A Problem Solver', 'A Mathematician', 'A Computer Scientist'],
       typeSpeed: 70, // Typing speed in milliseconds
       backSpeed: 25, // Backspacing speed in milliseconds
       loop: true, // Loop the animation
